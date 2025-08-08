@@ -1,3 +1,3 @@
 # vps-optimizer
-<br \>
+<br>
 Coming soon ...
